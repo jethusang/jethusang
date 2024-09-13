@@ -1,16 +1,4 @@
 ![social media profile buner](https://github.com/Lefatso/Lefatso/assets/106061860/a327d609-70ba-4950-a779-49ca4e860dfd)
-![](https://komarev.com/ghpvc/?username=Lefatso&color=brightgreen)
-<!--
-[![dwm](https://img.shields.io/badge/--1177AA?logo=dwm)](https://dwm.suckless.org/)
-[![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
-[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
-[![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
--->
-
-
-<h3>My GitHub contributions summary</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lefatso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=brightgreen&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -26,42 +14,52 @@
 
 <div align="left">
  <h4> My Skills</h4>
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=py,sass,bootstrap,java,php,js,html,css,mysql" />
   </a>
 </div>
 
 <div align="left">
  <h4> Tools</h4>
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,git,vscode" />
   </a>
 </div>
 
 <div align="left">
  <h4>Media</h4>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,gmail,instagram" />
+  <a href="https://www.linkedin.com/in/johannes-ethusang/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto: ethusangjohannes@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/mj_ethusang_8650/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
 
 
+<div align="left">
+ <h2> Badges and Certificates ©️ </h2>
+ <a href='https://www.credly.com/badges/0f203644-8bb6-4d27-8933-8e59b5666f31/public_url'>
+  <img src="https://github.com/user-attachments/assets/63d86662-e8ac-4a09-b2e4-9a74dc7378a6"/>
+ </a>
 
-<!--<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>-->
+  <a href='https://www.sololearn.com/certificates/CC-PVNRS9OY'>
+   <img height="150"  src="https://github.com/user-attachments/assets/27a9440e-ab88-4453-b730-4b090e5c7e19"/>
+  </a>
 
+  <a href='https://www.mygreatlearning.com/certificate/CODIOURO'>
+   <img height="150"  src="https://github.com/user-attachments/assets/e9c5fd72-bcec-45b6-8573-16a0757d335c"/>
+  </a>
+  
+   <a href='https://www.mygreatlearning.com/certificate/RJIVLLPB'>
+   <img height="150"  src="https://github.com/user-attachments/assets/88e2ebd2-0bef-4250-9e6b-5b69edecf2f8"/>
+  </a>
+  
+</div>
 
-
-<br clear="both">
-<!--
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
--->
 
 <!--
 **Lefatso/Lefatso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
