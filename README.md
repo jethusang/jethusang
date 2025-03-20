@@ -1,13 +1,13 @@
-![social media profile buner](https://github.com/Lefatso/Lefatso/assets/106061860/a327d609-70ba-4950-a779-49ca4e860dfd)
+![social media profile buner](https://github.com/jethusang/jethusang/assets/106061860/a327d609-70ba-4950-a779-49ca4e860dfd)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lefatso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=brightgreen&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lefatso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=brightgreen&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jethusang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=brightgreen&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jethusang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=brightgreen&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="250" src="https://github.com/Lefatso/Lefatso/assets/106061860/b83bdde5-526f-487b-bad8-e1519cd75740"  />
+<img align="right" height="250" src="https://github.com/jethusang/jethusang/assets/106061860/b83bdde5-526f-487b-bad8-e1519cd75740"  />
 
 
 ###
@@ -62,7 +62,7 @@
 
 
 <!--
-**Lefatso/Lefatso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jethusang/jethusang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
